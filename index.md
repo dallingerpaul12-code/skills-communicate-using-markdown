@@ -8,3 +8,7 @@ This is for larger code segments
 ---
 
 **That's all**
+
+*Wait we still need to add an image*
+*required*
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
