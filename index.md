@@ -20,7 +20,11 @@ x=random.randint(1,20)
 *required*
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+### To-Do-List:
 
+- [x] Added code
+- [x] Added images
+- [ ] Added List
 
 
 
